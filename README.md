@@ -1,4 +1,3 @@
-# Movies-Analysis-Using-Python
 #  Movie and Directors Data Analysis 🎬📊
 
 # Description
